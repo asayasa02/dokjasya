@@ -1,0 +1,1 @@
+Halo semuanya, ini adalah projek game pertama aku visual novel dengan MC dokja berbasis RenPy dengan hasil yang masih belum murni. Dengan cara kerja game alur untuk menjadi teman dokja dengan 3 ending berbeda. 
